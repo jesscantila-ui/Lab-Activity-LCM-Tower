@@ -1,4 +1,4 @@
-# Lab-Activity-LCM-Tower
+# LabActivity-Cantila
 The first activity was about finding the Least Common Multiple (LCM) of given numbers. It helped us understand how to identify multiples and find the smallest number that two or more numbers share. The second activity was about solving the Tower of Hanoi puzzle. This task taught us how to move disks between poles step by step without placing a larger disk on top of a smaller one. Both activities improved our logical thinking and problem-solving skills.
 
 1st
